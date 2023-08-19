@@ -1,3 +1,6 @@
+# ------------------------
+# 데이터 프로파일링
+# ------------------------
 import platform
 import streamlit as st
 import pandas as pd
